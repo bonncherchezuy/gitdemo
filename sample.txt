@@ -1,3 +1,4 @@
 First line by user1
 Fist line of user2
 User 2 is currently working on this code
+user1 second code line
